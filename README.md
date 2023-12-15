@@ -1,4 +1,4 @@
-# pycon2023VirtualAssistantDemo
+# Virtual Assistant 2.0
 Virtual Assistant 2.0 Demo for GDG Devfest
 
 # SETUP
